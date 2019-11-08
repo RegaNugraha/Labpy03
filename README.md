@@ -19,7 +19,7 @@ Ketika anda sudah memberikan input nilai, maka akan langsung muncul data nilai r
 4.Lalu akan ditampilkan bilangan terbesar dari semua bilangan yang anda input. Untuk mencari bilangan terbesar dari banyaknya bilangan menggunakan fungsi max. Berikut hasilnya :
 ![py 1](https://user-images.githubusercontent.com/56884391/68376537-52cd1a80-017b-11ea-8ea6-f36373d1a9e7.jpg)
 
-#Penjelasan program1
+#Penjelasan program3
 
 1.Modal awal pengusaha sebesar 100000000
 2.Untuk menghitung laba perbulan maka harus diinputkan terlebih dahulu besarnya presentase keuntungan perbulan.
