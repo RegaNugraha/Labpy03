@@ -20,6 +20,8 @@ TUGAS PEMOGRAMAN
 3.Pengulangan akan berhenti ketika anda memasukkan angka 0 (nol).
 4.Lalu akan ditampilkan bilangan terbesar dari semua bilangan yang anda input. Untuk mencari bilangan terbesar dari banyaknya bilangan menggunakan fungsi max. Berikut hasilnya :
 ![Untitled](https://user-images.githubusercontent.com/56884391/68536769-99449400-038a-11ea-8e53-614f1c5ceddd.png)
+#Flowchart Latihan 2.
+![flowpy2](https://user-images.githubusercontent.com/56884391/68537117-a9ac3d00-0391-11ea-8095-3ae3ec37e625.png)
 
 
 #Penjelasan program3
