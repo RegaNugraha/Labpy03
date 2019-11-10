@@ -19,7 +19,8 @@ TUGAS PEMOGRAMAN
 2.Program akan terus mengulang untuk meminta anda memasukkan bilangan.
 3.Pengulangan akan berhenti ketika anda memasukkan angka 0 (nol).
 4.Lalu akan ditampilkan bilangan terbesar dari semua bilangan yang anda input. Untuk mencari bilangan terbesar dari banyaknya bilangan menggunakan fungsi max. Berikut hasilnya :
-![py 1](https://user-images.githubusercontent.com/56884391/68376537-52cd1a80-017b-11ea-8ea6-f36373d1a9e7.jpg)
+![Untitled](https://user-images.githubusercontent.com/56884391/68536769-99449400-038a-11ea-8e53-614f1c5ceddd.png)
+
 
 #Penjelasan program3
 
