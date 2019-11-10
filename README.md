@@ -9,7 +9,8 @@ TUGAS PEMOGRAMAN
 4.Ketika anda sudah memberikan input nilai, maka akan langsung muncul data nilai random. Berikut hasilnya :
 ![py1 1](https://user-images.githubusercontent.com/56884391/68376711-a17ab480-017b-11ea-9540-1e620c175367.jpg)
 #Alur Pemograman/Flowchart Labpy01
-![2019-11-09 (1)](https://user-images.githubusercontent.com/56884391/68517961-5d42fd80-02bc-11ea-89aa-be1eec7ef0fb.png)
+![new](https://user-images.githubusercontent.com/56884391/68537852-6c4dac80-039d-11ea-937c-abd6d47231db.png)
+
 
 
 
